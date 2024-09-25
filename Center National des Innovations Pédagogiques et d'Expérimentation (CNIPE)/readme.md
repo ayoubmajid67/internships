@@ -37,7 +37,7 @@ Each subfolder in the `demo` directory contains screenshots and examples of the 
 - **Management of shipments**: The platform supports both Coles and Courier shipments.
 - **Admin control panel**: Admins and owners have access to manage users, update tariffs, and view transaction logs.
 
-For the detailed project presentation, you can view it [on my LinkedIn here](https://www.linkedin.com/your-link-to-post).
+For the detailed project presentation, you can view it [on my LinkedIn here]([https://www.linkedin.com/your-link-to-post](https://www.linkedin.com/posts/youbista_softwaredevelopment-mooc-flask-activity-7244747282779107328-Zr90?utm_source=share&utm_medium=member_desktop)).
 
 ## Next Steps
 This report serves as a foundation for future improvements. Stay tuned for when the audiovisual division hosts the final platform, ensuring its availability for internal use across CNIPE.
